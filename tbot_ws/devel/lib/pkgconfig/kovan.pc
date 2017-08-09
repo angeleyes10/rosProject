@@ -1,0 +1,8 @@
+prefix=/home/mahmut/tbot_ws/devel
+
+Name: kovan
+Description: Description of kovan
+Version: 0.0.0
+Cflags: -I/home/mahmut/tbot_ws/devel/include
+Libs: -L/home/mahmut/tbot_ws/devel/lib 
+Requires: message_runtime

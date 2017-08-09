@@ -1,0 +1,8 @@
+prefix=/home/mahmut/tbot_ws/devel
+
+Name: tester
+Description: Description of tester
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mahmut/tbot_ws/devel/lib 
+Requires: message_runtime

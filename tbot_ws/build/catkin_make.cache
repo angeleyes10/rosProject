@@ -1,0 +1,2 @@
+kovan:tester
+-DCATKIN_DEVEL_PREFIX=/home/mahmut/tbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mahmut/tbot_ws/install -G Unix Makefiles
